@@ -1,3 +1,5 @@
+import './style.css';
+
 const daysNode = document.getElementById('days');
 const hoursNode = document.getElementById('hours');
 const minutesNode = document.getElementById('minutes');
