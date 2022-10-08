@@ -30,6 +30,6 @@ module.exports = {
   },
   devServer: {
     static: 'dist',
-    port: 3000,
+    allowedHosts: 'all',
   },
 };
